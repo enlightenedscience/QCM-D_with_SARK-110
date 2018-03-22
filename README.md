@@ -1,6 +1,6 @@
 # QCMD-analysis
 
-This repository contains python jupyter notebook code for analysis of quartz crystal microbalance (QCM) data measured by the SARK-110 antenna analyzer.
+This repository contains python jupyter notebook code for analysis of quartz crystal microbalance (QCM) data measured by the SARK-110 antenna analyzer (http://www.sark110.com/).
 
 First download the "example_impedance_spectra" folder. This folder contains 5 xlsx files with example data.
 
