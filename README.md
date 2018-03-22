@@ -9,5 +9,4 @@ Download the SARK_QCMD_w_fitting.ipynb python jupyter notbook. In the 5th cell i
 For analysis of new data, the parameter guesses and bounds in the 4th notebook cell should be changed to improve the fitting accuracy. Initial guesses and bounds are explained in the scipy.optimize.curve_fit documentation here:
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html
 
-For other questions, contact Eric M. via ResearchGate:
-https://www.researchgate.net/profile/Eric_Muckley
+For questions, contact enlightenedscience0@gmail.com
