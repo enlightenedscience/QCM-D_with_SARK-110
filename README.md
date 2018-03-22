@@ -1,3 +1,6 @@
 # QCMD-analysis
 
-This repository contains python code for analysis of quartz crystal microbalance (QCM) data, including QCM with dissipation monitoring (QCMD).
+This repository contains python jupyter notebook code for analysis of quartz crystal microbalance (QCM) data measured by the SARK-110 antenna analyzer.
+
+
+
