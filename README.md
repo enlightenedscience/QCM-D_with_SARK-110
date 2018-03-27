@@ -10,7 +10,7 @@ For analysis of new data, the parameter guesses and bounds in the 4th notebook c
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html
 
 
-The repository also contains files for a 3D-printed flow cell gas inlet/outlet ports and slows for three BNC connector feedthroughs. The top and bottom pieces of the flow cell are "Environmental box CNMS top.stl" and "Environmental box CNMS bottom.stl". 
+The repository also contains files for a 3D-printed flow cell with gas inlet/outlet ports and slots for three BNC connector feedthroughs. The top and bottom pieces of the flow cell are "Environmental box CNMS top.stl" and "Environmental box CNMS bottom.stl". 
 
 
 
